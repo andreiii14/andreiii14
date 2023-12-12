@@ -10,6 +10,9 @@ I'm a cybersecurity enthusiast currently working in the IT industry with a solid
 
 <h2>🖥️ Cybersecurity Projects</h2>
 
+- <b>pfSense Firewall - Network Security Lab</b>
+  - [Configuration of firewall rules, Network Address Translation (NAT), OpenVPN (Virtual Private Network), traffic shaping, monitoring, intrusion detection/prevention (IDS/IPS), and the implementation of a captive portal](https://github.com/andreiii14/pfsense-firewall-network-security)
+
 - <b>Splunk SIEM Project</b>
   - [Monitoring key events and behaviour, and identifying multiple potential security threats](https://github.com/andreiii14/Splunk-SIEM-Project)
 
