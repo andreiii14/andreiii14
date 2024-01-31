@@ -31,7 +31,11 @@ I'm a cybersecurity enthusiast currently working in the IT industry with a solid
 - <b>VirusTotal File Checker</b>
   - [A Python script utilizing the VirusTotal API to check file maliciousness](https://github.com/andreiii14/Virus-Total-Script)
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Software Development/Programming Projects:</h2>
+
+- <b>Compliance News Scraper</b>
+  - [Automated Python script for scraping weekly compliance news related to any AML, KYC, and CFT news in Australia from reputable sources, such as AUSTRAC, ASIC, APRA, CCMC, ACAMS, and AFR. The script sends a summary of the news directly to your email address every Monday at 9:00 AM.](https://github.com/andreiii14/Compliance-News-Scraper) 
+
 
 - <b>CS50 Finance: Stock Portfolio Web App</b>
   - [Web app that allows users to simulate buying and selling stocks with pretend money](https://github.com/andreiii14/CS50-Finance)
